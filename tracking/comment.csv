@@ -1,2 +1,3 @@
 comment_id,task_id,subtask_id,kind,page,measure_start,measure_end,author_id,timestamp,resolved,parent_id,body
 7793d983,T0002,,comment,,,,5521800,2026-10-05T12:51:06Z,,,Hallo Werner!
+003e7c63,T0002,,reply,,,,45632600,2026-10-05T12:52:17Z,,7793d983,Servus David! Wos gibts?
