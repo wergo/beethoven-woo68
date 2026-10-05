@@ -10,3 +10,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-05T12:21:16.817Z,T0001,,45632600,claim_encoding,accepted,,campaign.openEditor,1,"{""task_id"":""T0001""}",9
 2026-10-05T12:51:18.901Z,T0002,,5521800,submit_comment,accepted,comment,campaign.submitComment,1,"{""task_id"":""T0002"",""subtask_id"":"""",""kind"":""comment"",""parent_id"":""""}",10
 2026-10-05T12:52:31.499Z,T0002,,45632600,submit_comment,accepted,reply,campaign.submitComment,1,"{""task_id"":""T0002"",""subtask_id"":"""",""kind"":""reply"",""parent_id"":""7793d983""}",11
+2026-10-05T20:18:48.465Z,T0001,,45632600,reap,released,encoding,,,,
